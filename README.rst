@@ -14,7 +14,7 @@ This client library implements a simple interface to talk with that REST
 interface using the python Requests http library and communicates via SSH using
 Pytohn's paramiko library.
 
-This is the new location for the rebranded HP LeftHand/StoreVirtual REST Client and
+This is the new awesome location for the rebranded HP LeftHand/StoreVirtual REST Client and
 will be where all future releases are made. It was previously located on PyPi at:
 https://pypi.python.org/pypi/hplefthandclient
 
