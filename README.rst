@@ -8,7 +8,7 @@
 
 HPE LeftHand/StoreVirtual REST Client
 =====================================
-This is a Client library that can talk to the HPE LeftHand/StoreVirtual Storage array.
+This really is a Client library that can talk to the HPE LeftHand/StoreVirtual Storage array.
 The HPE LeftHand storage array has a REST web service interface as well as runs SSH.
 This client library implements a simple interface to talk with that REST
 interface using the python Requests http library and communicates via SSH using
