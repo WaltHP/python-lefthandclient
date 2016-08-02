@@ -32,6 +32,7 @@ Capabilities
 * Get Volume(s)
 * Get Volume by Name
 * Create RAID
+* Delete RAID
 * Create Volume
 * Delete Volume
 * Modify Volume
