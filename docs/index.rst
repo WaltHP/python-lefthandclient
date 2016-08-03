@@ -13,7 +13,7 @@ everything you need to know to use **HPELeftHandClient**.
 The **HPELeftHandClient** is a rebranding of the **HPLeftHandClient**.
 
 :doc:`installation`
-  Great instructions on how to get the distribution.
+  Instructions on how to get the distribution.
 
 :doc:`tutorial`
   Start here for a quick overview.
