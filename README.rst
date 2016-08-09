@@ -23,6 +23,8 @@ https://github.com/hpe-storage/python-lefthandclient/tree/1.x
 
 The HP LeftHand/StoreVirtual REST Client (hplefthandclient) is now considered deprecated.
 
+I am adding another line of tExt.
+
 Requirements
 ============
 This branch requires 11.5 version or later of the LeftHand OS firmware.
