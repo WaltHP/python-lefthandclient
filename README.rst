@@ -8,13 +8,13 @@
 
 HPE LeftHand/StoreVirtual REST Client
 =====================================
-This is a Client library that can talk to the HPE LeftHand/StoreVirtual Storage array.
+Hello there. This really is a good Client library that can talk to the HPE LeftHand/StoreVirtual Storage array.
 The HPE LeftHand storage array has a REST web service interface as well as runs SSH.
 This client library implements a simple interface to talk with that REST
 interface using the python Requests http library and communicates via SSH using
 Pytohn's paramiko library.
 
-This is the new location for the rebranded HP LeftHand/StoreVirtual REST Client and
+This is the new awesome location for the rebranded HP LeftHand/StoreVirtual REST Client and
 will be where all future releases are made. It was previously located on PyPi at:
 https://pypi.python.org/pypi/hplefthandclient
 
@@ -31,6 +31,8 @@ Capabilities
 ============
 * Get Volume(s)
 * Get Volume by Name
+* Create RAID
+* Delete RAID
 * Create Volume
 * Delete Volume
 * Modify Volume
